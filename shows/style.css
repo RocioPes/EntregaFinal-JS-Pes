@@ -1,0 +1,59 @@
+h1 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+h2{
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+  
+    
+}
+
+h3{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+h4{
+    font-size: 20px;
+    text-align: left;
+    text-transform: uppercase;
+    padding-top: 30px;
+    
+}
+.tickets{
+    text-align: left;
+    font-size: 30px;
+    text-decoration: solid;
+    text-transform: initial;
+    
+}
+
+.img-bands{
+    width: 40%;
+    height: 40%;
+    
+
+}
+
+.text-band{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
